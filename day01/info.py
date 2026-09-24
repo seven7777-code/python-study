@@ -1,0 +1,6 @@
+name=input("请输入姓名：")
+age=input("请输入年龄：")
+school=input("请输入学校：")
+print("姓名：",name)
+print("年龄：",age)
+print("专业：",school)
