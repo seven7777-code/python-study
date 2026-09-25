@@ -1,0 +1,7 @@
+name=input("姓名：")
+age=int(input("年龄："))
+height=float(input("身高:"))
+print("姓名",name)
+print("年龄：",age)
+print("明年年龄：",age+1)
+print("身高：",height)
